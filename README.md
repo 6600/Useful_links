@@ -6,4 +6,7 @@ https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/READ
 
 **2、推荐好书《程序员的英语》**  
 http://www.ituring.com.cn/book/1770   
-更多好书可以访问**图灵社区** http://www.ituring.com.cn/
+更多好书可以访问**图灵社区** http://www.ituring.com.cn/  
+
+**3、超级链接: 创造狮导航**   
+http://chuangzaoshi.com/friends
