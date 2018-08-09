@@ -12,4 +12,10 @@ http://www.ituring.com.cn/book/1770
 http://chuangzaoshi.com/friends  
 
 **4、阿里中间件团队博客**  
-http://jm.taobao.org/
+http://jm.taobao.org/  
+
+**5、美团技术团队**   
+https://tech.meituan.com/
+
+**6、百度「Web 前端研发部」FEX **   
+http://fex.baidu.com/
