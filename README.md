@@ -17,5 +17,5 @@ http://jm.taobao.org/
 **5、美团技术团队**   
 https://tech.meituan.com/
 
-**6、百度「Web 前端研发部」FEX **   
+**6、百度「Web 前端研发部」FEX**   
 http://fex.baidu.com/
