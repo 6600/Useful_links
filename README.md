@@ -9,4 +9,7 @@ http://www.ituring.com.cn/book/1770
 更多好书可以访问**图灵社区** http://www.ituring.com.cn/  
 
 **3、超级链接: 创造狮导航**   
-http://chuangzaoshi.com/friends
+http://chuangzaoshi.com/friends  
+
+**4、阿里中间件团队博客**  
+http://jm.taobao.org/
