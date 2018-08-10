@@ -24,4 +24,16 @@ http://fex.baidu.com/
  https://searchcode.com/
 
 **8、C/C++参考手册（支持多语言）**   
-https://en.cppreference.com/w/
+https://en.cppreference.com/w/  
+
+**9、数据结构和算法动态可视化**   
+https://visualgo.net/en
+
+**10、格式转换网站**   
+https://cloudconvert.com/formats
+
+**11、python教程**   
+python官方文档：https://www.python.org/   
+(廖雪峰老师)[https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000] ：https://www.liaoxuefeng.com/   
+(Vamei老师)[http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html] ： https://www.cnblogs.com/vamei/
+
