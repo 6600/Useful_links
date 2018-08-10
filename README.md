@@ -34,6 +34,6 @@ https://cloudconvert.com/formats
 
 **11、python教程**   
 python官方文档：https://www.python.org/   
-(廖雪峰老师)[https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000] ：https://www.liaoxuefeng.com/   
-(Vamei老师)[http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html] ： https://www.cnblogs.com/vamei/
+[廖雪峰老师:](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000) https://www.liaoxuefeng.com/   
+[Vamei老师:](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html) https://www.cnblogs.com/vamei/
 
