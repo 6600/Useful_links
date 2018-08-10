@@ -19,3 +19,9 @@ https://tech.meituan.com/
 
 **6、百度「Web 前端研发部」FEX**   
 http://fex.baidu.com/
+
+ **7、A free source code search engine:「searchcode」**   
+ https://searchcode.com/
+
+**8、C/C++参考手册（支持多语言）**   
+https://en.cppreference.com/w/
